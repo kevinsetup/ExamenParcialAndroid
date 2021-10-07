@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ExamenParcialLp_Kevin">
         <activity
+            android:name=".ProductoActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustPan"
+            />
+        <activity
             android:name=".HomeActivity"
             android:exported="true" />
         <activity

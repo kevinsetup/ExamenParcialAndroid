@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169534564035",
+    "project_id": "fir-auth-9af90",
+    "storage_bucket": "fir-auth-9af90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169534564035:android:d84de0e251e6c22548a476",
+        "android_client_info": {
+          "package_name": "com.example.examenparciallp_kevin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169534564035-redoifv02vbkq0f9uu9o0fm8v4mrqfkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCncA0p_PWbFz9zwrIucOZQG3QlFWaTTA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169534564035-redoifv02vbkq0f9uu9o0fm8v4mrqfkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
